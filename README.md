@@ -34,6 +34,12 @@
 </a>
 <a href="https://git-scm.com/" target="_blank">
   <img alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 </a></p>
 
 ### Where to find me:
