@@ -1,3 +1,5 @@
+![banner](..img/banner.png)
+
 ## Hi! I'm Jiya John. 👋 
 
 **I'm an IT enthusiast, trying to learn something new each day.**
