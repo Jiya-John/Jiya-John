@@ -4,7 +4,7 @@
 
 **I'm an IT enthusiast, trying to learn something new each day.**
 
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently into Web development.
 - 🔭 I’ve completed courses in computer science engineering and AI with ML.  
 - 🔭 I worked at TCS in information technology.
 - ⚡ Fun fact: I love to draw and paint.
